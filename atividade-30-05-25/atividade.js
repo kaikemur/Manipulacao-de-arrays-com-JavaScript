@@ -12,5 +12,5 @@ let promocoes = [
   "notebook i5",
   "hub USB"
 ];
-promocoes.push(`monitor`,`cellular`)
+promocoes.push("SSD 1TB","mesa digitalizadora")
 console.log(`em promoções:`, promocoes);
