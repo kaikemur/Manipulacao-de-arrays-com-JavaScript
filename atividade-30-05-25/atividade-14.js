@@ -13,5 +13,5 @@ let artigosBlog = [
   "Segurança em aplicações web"
 ];
 
-console.log("artigos do blog :",artigosBlog.slice(0, 5));
+console.log("artigos do blog :",artigosBlog.slice(0, 4));
 console.log(artigosBlog);

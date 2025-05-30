@@ -12,4 +12,4 @@ Você precisa gerar um relatório com apenas a primeira semana de férias dos co
   "Carlos – Terça (semana 2)",
   "Carlos – Quarta (semana 2)"
 ];
-console.log("parte do relatorio de ferias (indices 0 a 5):",diasFaltas.slice(0, 5));
+console.log("parte do relatorio de ferias :",diasFaltas.slice(0, 4));
